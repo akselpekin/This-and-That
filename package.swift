@@ -11,7 +11,7 @@ let package = Package(
         .executableTarget(
           name: "ThisAndThat",
           path: ".",
-          exclude: ["README.md", "LICENSE", "package.swift"]
+          exclude: ["README.md", "LICENSE", "package.swift", "assets/"]
         ),
     ]
 )
