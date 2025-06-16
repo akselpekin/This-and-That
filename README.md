@@ -1,3 +1,5 @@
+![Menu screenshot](assets/menu.png)
+
 # This & That
 
 **This & That** is a pair-matching game for macOS, designed with SwiftUI. Flip cards, find matching emoji pairs, and test your memory on beautiful, animated game boards.
@@ -15,6 +17,9 @@
 - The game ends once all pairs are found.
 
 ---
+
+![Gameplay screenshot](assets/gameplay.png)
+![Gameplay screenshot 2](assets/gameplay_2.png)
 
 ## Directory structure
 ```
